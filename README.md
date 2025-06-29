@@ -45,7 +45,7 @@ pip install monsoon-crop-predictor[all]
 ### Development Installation
 
 ```bash
-git clone https://github.com/yourusername/monsoon-crop-predictor.git
+git clone https://github.com/SubratDash67/Monsoon-Crop-Yield.git
 cd monsoon-crop-predictor
 pip install -e .[dev]
 ```
@@ -316,7 +316,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/monsoon-crop-predictor.git
+git clone https://github.com/SubratDash67/Monsoon-Crop-Yield.git
 cd monsoon-crop-predictor
 
 # Create virtual environment
@@ -347,8 +347,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [https://monsoon-crop-predictor.readthedocs.io/](https://monsoon-crop-predictor.readthedocs.io/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/monsoon-crop-predictor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/monsoon-crop-predictor/discussions)
+- **Issues**: [GitHub Issues](https://github.com/SubratDash67/Monsoon-Crop-Yield/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/SubratDash67/Monsoon-Crop-Yield/discussions)
 
 ## 🗺️ Roadmap
 

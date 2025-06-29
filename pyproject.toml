@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "KIIT Developer", email = "kiit.developer@example.com"},
+    {name = "Subrat Dash", email = "subratdash2022@gmail.com"},
 ]
 keywords = ["agriculture", "crop yield", "machine learning", "monsoon", "rainfall", "prediction"]
 classifiers = [
@@ -78,10 +78,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/kiit-developer/monsoon-crop-predictor"
-Documentation = "https://github.com/kiit-developer/monsoon-crop-predictor/blob/main/README.md"
-Repository = "https://github.com/kiit-developer/monsoon-crop-predictor"
-"Bug Tracker" = "https://github.com/kiit-developer/monsoon-crop-predictor/issues"
+Homepage = "https://github.com/SubratDash67/Monsoon-Crop-Yield"
+Documentation = "https://github.com/SubratDash67/Monsoon-Crop-Yield/blob/main/README.md"
+Repository = "https://github.com/SubratDash67/Monsoon-Crop-Yield"
+"Bug Tracker" = "https://github.com/SubratDash67/Monsoon-Crop-Yield/issues"
 
 [project.scripts]
 crop-predictor = "monsoon_crop_predictor.cli.commands:cli"

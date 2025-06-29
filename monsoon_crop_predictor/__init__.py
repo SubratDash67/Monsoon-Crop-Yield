@@ -6,8 +6,8 @@ rainfall data, and agricultural parameters using advanced machine learning model
 """
 
 __version__ = "0.1.0"
-__author__ = "KIIT Developer"
-__email__ = "kiit.developer@example.com"
+__author__ = "Subrat Dash"
+__email__ = "subratdash2022@gmail.com"
 __description__ = (
     "ML-based crop yield prediction system using monsoon and rainfall data"
 )

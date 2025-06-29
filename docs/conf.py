@@ -12,8 +12,8 @@ sys.path.insert(0, os.path.abspath(".."))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Monsoon Crop Predictor"
-copyright = "2024, Monsoon AI Team"
-author = "Monsoon AI Team"
+copyright = "2025, Subrat Dash"
+author = "Subrat Dash"
 release = "1.0.0"
 
 # -- General configuration ---------------------------------------------------

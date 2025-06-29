@@ -52,9 +52,9 @@ setup(
     description="Advanced ML-based crop yield prediction system using monsoon and rainfall data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/monsoon-crop-predictor",
-    author="Your Name",
-    author_email="your.email@example.com",
+    url="https://github.com/SubratDash67/Monsoon-Crop-Yield",
+    author="Subrat Dash",
+    author_email="subratdash2022@gmail.com",
     # Classifiers for PyPI
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -94,9 +94,9 @@ setup(
     include_package_data=True,
     # Project URLs
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/monsoon-crop-predictor/issues",
-        "Source": "https://github.com/yourusername/monsoon-crop-predictor",
-        "Documentation": "https://monsoon-crop-predictor.readthedocs.io/",
+        "Bug Reports": "https://github.com/SubratDash67/Monsoon-Crop-Yield/issues",
+        "Source": "https://github.com/SubratDash67/Monsoon-Crop-Yield",
+        "Documentation": "https://github.com/SubratDash67/Monsoon-Crop-Yield/blob/main/README.md",
     },
     # License
     license="MIT",
