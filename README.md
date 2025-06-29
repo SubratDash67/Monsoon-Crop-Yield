@@ -174,11 +174,11 @@ predictor = CropYieldPredictor(model_dir='/custom/model/path')
 
 Our ensemble models achieve strong performance across different crops:
 
-| Crop  | R² Score | RMSE (kg/ha) | MAE (kg/ha) |
-| ----- | -------- | ------------ | ----------- |
-| Rice  | 0.85     | 245          | 180         |
-| Wheat | 0.82     | 198          | 145         |
-| Maize | 0.88     | 285          | 210         |
+| Crop  | R² Score 
+| ----- | -------- 
+| Rice  | 0.85     
+| Wheat | 0.82     
+| Maize | 0.88     
 
 ## 🗂️ Data Requirements
 
